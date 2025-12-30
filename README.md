@@ -59,7 +59,7 @@ The goal is to identify **target customer segments** for a **shopping-oriented c
 - Aggregated spending behavior using `SUM()` and `AVG()`
 
 ---
-![Power BI Dashboard](visualization/dashboard.png)
+![Power BI Dashboard](Credit_Card_Spending_Analysis/visualization/dashboard.png)
 
 ## Key Insights
 - Customer spending behavior varies significantly by age group, indicating that a one-size-fits-all credit card strategy is ineffective.
